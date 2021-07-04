@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="" style="max-width:100%;"><h1 align="center">Hi <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></a>, I'm Srimoyranjan Das</h1>
+<img src="https://ajmendez.github.io/assets/helloworld_finished.png" alt="" style="max-width:100%;"><h1 align="center">Hi <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></a>, I'm Srimoyranjan Das</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srimoy-stack&label=Profile%20views&color=0e75b6&style=flat" alt="srimoy-stack" /> </p>
