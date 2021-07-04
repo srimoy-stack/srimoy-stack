@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **das6370773567@gmail.com**
 
-- ⚡ Fun fact **I think i am a funny XD.**
+- ⚡ Fun fact** i am looking at you right now.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
