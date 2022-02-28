@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://srimoyranjan-portfolio.netlify.app/](https://srimoyranjan-portfolio.netlify.app/)
 
-- 📫 How to reach me **das6370773567@gmail.com**
+- 📫 How to reach me **srimoyranjan26@gmail.com**
 
 - ⚡ Fun fact** i am looking at you right now.**
 
