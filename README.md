@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **HTML5,CSS3,JAVA SCRIPT,PHP**
 
-- 👨‍💻 All of my projects are available at [https://srimoyranjan-portfolio.netlify.app/](https://srimoyranjan-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mobile.twitter.com/DasSrimoyranjan?t=u_ytwxRfxndf4_HKtBM9lw&s=01  /)
 
 - 📫 How to reach me **srimoyranjan26@gmail.com**
 
