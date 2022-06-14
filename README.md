@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/@dassrimoyranjan" target="blank"><img src="https://img.shields.io/twitter/follow/@dassrimoyranjan?logo=twitter&style=for-the-badge" alt="@dassrimoyranjan" /></a> </p>
 
-- 🌱 I’m currently learning **HTML5,CSS3,JAVA SCRIPT,PHP**
+- 🌱 I’m currently learning **MERN STACK**
 
-- 👨‍💻 All of my projects are available at [https://mobile.twitter.com/DasSrimoyranjan?t=u_ytwxRfxndf4_HKtBM9lw&s=01  /)
+- 👨‍💻 All of my projects are available at www.srimoy.online
 
 - 📫 How to reach me **srimoyranjan26@gmail.com**
 
