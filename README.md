@@ -1,4 +1,4 @@
-   <img src="https://ajmendez.github.io/assets/helloworld_finished.png" alt="" style="max-width:100%;"><h1 align="center">Hi <a target="_blank" rel="noopener noreferrer"    href="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"      width="30px" style="max-width:100%;"></a>, I'm Srimoyranjan Das</h1>
+<center>   <img src="https://ajmendez.github.io/assets/helloworld_finished.png" alt="" style="max-width:100%;"><h1 align="center">Hi <a target="_blank" rel="noopener noreferrer"    href="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"      width="30px" style="max-width:100%;"></a>, I'm Srimoyranjan Das</h1>
   <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srimoy-stack&label=Profile%20views&color=0e75b6&style=flat" alt="srimoy-stack" /> </p>
@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/srimoyranjan das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srimoyranjan das" height="30" width="40" /></a>
 <a href="https://fb.com/srimoy das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="srimoy das" height="30" width="40" /></a>
 <a href="https://instagram.com/srimoy_das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srimoy_das" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/das6370773567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="das6370773567" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/das6370773567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile -readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="das6370773567" height="30" width="40" /></a></center>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
