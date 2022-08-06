@@ -1,6 +1,6 @@
 <center>   <img src="https://ajmendez.github.io/assets/helloworld_finished.png" alt="" style="max-width:100%;"><h1 align="center">Hi <a target="_blank" rel="noopener noreferrer"    href="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"      width="30px" style="max-width:100%;"></a>, I'm Srimoyranjan Das</h1>
   <h3 align="center">A passionate frontend developer from India</h3>
-# www.srimoy.online
+                           www.srimoy.online
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srimoy-stack&label=Profile%20views&color=0e75b6&style=flat" alt="srimoy-stack" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srimoy-stack" alt="srimoy-stack" /></a> </p>
