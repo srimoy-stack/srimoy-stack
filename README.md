@@ -1,35 +1,72 @@
-<center>   <img src="https://ajmendez.github.io/assets/helloworld_finished.png" alt="" style="max-width:100%;"><h1 align="center">Hi <a target="_blank" rel="noopener noreferrer"    href="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"      width="30px" style="max-width:100%;"></a>, I'm Srimoyranjan Das</h1>
-  <h3 align="center">A passionate frontend developer from India</h3>
-                           <h4>portfolio - www.srimoy.online</h4>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srimoy-stack&label=Profile%20views&color=0e75b6&style=flat" alt="srimoy-stack" /> </p>
+<meta name="description" content="GitHub profile in green color">
+<meta name="keywords" content="Full Stack Developer, GitHub Stats, GitHub Profile, JavaScript, TypeScript, React, Nodejs, HTML5, CSS3, Bootstrap, Python, C#, C++, C, Java, PHP, PostgreSQL, MySQL, MongoDB"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srimoy-stack" alt="srimoy-stack" /></a> </p>
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=133f6e&height=120&section=header"/>
+</a>
 
-<p align="left"> <a href="https://twitter.com/@dassrimoyranjan" target="blank"><img src="https://img.shields.io/twitter/follow/@dassrimoyranjan?logo=twitter&style=for-the-badge" alt="@dassrimoyranjan" /></a> </p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Srimoy;I'm+from+India;I'm+a+Full+Stack+Developer;I+also+build+ML+Model;Be+Welcome!+ツ)
 
-- 🌱 I’m currently learning **MERN STACK**
+<div align="center" style="background-color:black;">
+  <br>
+  <a href="#">
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kanha638&show_icons=true&theme=vue-dark&bg_color=0d1117&border_radius=15&border_color=0d1117&count_private=true"/>
+  </a>
+  <a href="#">
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanha638&langs_count=5&layout=compact&theme=vue-dark&bg_color=0d1117&border_radius=15&border_color=0d1117"/>
+  </a>
+</div> 
+   
+<br>
+<br>
 
-- 👨‍💻 All of my projects are available at www.srimoy.online
 
-- 📫 How to reach me **srimoyranjan26@gmail.com**
+<div style="display: inline_block">
+      <p align="center"><strong>Skills & Technologies</strong></p>
+  <p align="center">
+       <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+      <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white">
+      <img src="https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white">
+      <img src="https://img.shields.io/badge/typescript-blue.svg?style=for-the-badge&logo=typescript&logoColor=white">
+      <img src="https://img.shields.io/badge/nodejs-%2300599C.svg?style=for-the-badge&logo=npm&logoColor=white">
+      <img src="https://img.shields.io/badge/flask-red.svg?style=for-the-badge&logo=flask&logoColor=white">
+      <img src="https://img.shields.io/badge/django-green.svg?style=for-the-badge&logo=django&logoColor=white">
+      <img src="https://img.shields.io/badge/python-orange.svg?style=for-the-badge&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/bootstrap-purple.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+      <img src="https://img.shields.io/badge/postgres-blue.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+      <img src="https://img.shields.io/badge/Redis-red.svg?style=for-the-badge&logo=redis&logoColor=white">
+      <img src="https://img.shields.io/badge/mySql-gray.svg?style=for-the-badge&logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/shell-red.svg?style=for-the-badge&logo=shell&logoColor=white">
+      <img src="https://img.shields.io/badge/yaml-pink.svg?style=for-the-badge&logo=yaml&logoColor=red">
+        
+       
+        
+  </p>
+</div>
 
-- ⚡ Fun fact** i am looking at you right now.**
+<br>
+<br>
+  
+<div> 
+   <p align="center"><strong>Social Media & Coding Profile</strong></p>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/kanhatiwari/">
+          <img src="https://img.shields.io/badge/linkedin-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://www.codechef.com/users/kanha_638">
+          <img src="https://img.shields.io/badge/codechef-gray.svg?style=for-the-badge&logo=codechef&logoColor=white">
+    </a>
+    <a href="https://codeforces.com/profile/Calamine">
+          <img src="https://img.shields.io/badge/codeforces-black.svg?style=for-the-badge&logo=codeforces&logoColor=red">
+    </a>
+    <a href="https://leetcode.com/Bblizzrd/">
+          <img src="https://img.shields.io/badge/leetcode-orange.svg?style=for-the-badge&logo=leetcode&logoColor=red">
+    </a>
+  </p>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/@srimoy-ranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@srimoy-ranjan" height="30" width="40" /></a>
-<a href="https://twitter.com/@dassrimoyranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dassrimoyranjan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/srimoyranjan das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srimoyranjan das" height="30" width="40" /></a>
-<a href="https://fb.com/srimoy das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="srimoy das" height="30" width="40" /></a>
-<a href="https://instagram.com/srimoy_das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srimoy_das" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/das6370773567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile -readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="das6370773567" height="30" width="40" /></a></center>
-</p>
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=133f6e&height=120&section=footer"/>
+</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srimoy-stack&show_icons=true&locale=en&layout=compact" alt="srimoy-stack" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srimoy-stack&show_icons=true&locale=en" alt="srimoy-stack" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srimoy-stack&" alt="srimoy-stack" /></p>
